@@ -1,5 +1,16 @@
-# COMP400
-COMP400 project at McGill.
+# Penalization for sparsity — optimization techniques
+
+In this project I investigated various optimization techniques for penalization of sparse datasets.
+
+## Report
+
+You can find the full PDF report [here](COMP_400_Project.pdf).
+
+## Preview
+
+![img](assets/preview.png)
+
+## Resources
 
 The main 2 resources consulted for this project were:
 
